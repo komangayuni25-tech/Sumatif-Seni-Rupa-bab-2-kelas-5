@@ -1,0 +1,6 @@
+{
+  "name": "Asesmen Seni Rupa Kelas 5 - SDN 3 Loloan Timur",
+  "description": "Aplikasi asesmen dan rekap nilai Seni Rupa Kelas 5 materi Prinsip Ritme SD Negeri 3 Loloan Timur terintegrasi Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
